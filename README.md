@@ -3,6 +3,8 @@ I've been using Laravel quite a bit prior, which takes care of most of the voes 
 
 THIS IS AN ONGOING PROJECT AND THE DOCUMENTATION WILL IMPROVE!
 
+BACKEND PORTION OF THE SITE - https://github.com/squarePotatoe/MJdoesWebBackEnd/tree/master
+
 More concise and 'to the point' descriptions coming later...
 
 Here's what I use:
